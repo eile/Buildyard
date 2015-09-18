@@ -1,5 +1,0 @@
-if(APPLE)
-  set(MPI_HOME "/opt/local/lib/openmpi" CACHE STRING "MPI root directory")
-endif()
-set(MPI_OPTIONAL ON)
-set(MPI_CMAKE_INCLUDE "SYSTEM \${MPI_C_INCLUDE_PATH}")

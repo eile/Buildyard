@@ -1,2 +1,0 @@
-# Uncomment next line to get extra configurations
-#config.extra https://github.com/BlueBrain/config.extra.git master
